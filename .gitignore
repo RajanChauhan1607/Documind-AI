@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# FAISS indexes
+faiss_indexes/
+
+# OS files
+.DS_Store
+Thumbs.db
